@@ -3707,6 +3707,7 @@ input, select, textarea {
 
 #footer {
     padding: 3em 0;
+}
 
 	#footer .copyright {
 		font-size: 0.8em;
@@ -3740,8 +3741,6 @@ input, select, textarea {
 		}
 
 	}
-
-}
 
 /* Wrapper */
 
