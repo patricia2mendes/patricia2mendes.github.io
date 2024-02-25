@@ -2343,6 +2343,7 @@ input, select, textarea {
 		display: flex;
 		justify-content: space-between;
 		padding: 0 3em;
+		flex-flow: wrap;
 	}
 
 		ul.icons li {
