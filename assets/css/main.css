@@ -2342,7 +2342,7 @@ input, select, textarea {
 		list-style: none;
 		display: flex;
 		justify-content: space-between;
-		padding: 0 3em;
+	    padding: 0 22px;
 		flex-flow: wrap;
 	}
 
